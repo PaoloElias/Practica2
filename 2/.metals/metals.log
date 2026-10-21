@@ -1,0 +1,45 @@
+2026.10.20 22:58:42 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\p1406\OneDrive\Escritorio\Practica2\2' for client Visual Studio Code 1.142.0.
+2026.10.20 22:58:42 INFO  Memory monitor started
+2026.10.20 22:58:42 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.20 22:58:43 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\2\Parte2.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:58:45 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\2\Parte2.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:58:46 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\2\Parte2.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:58:46 INFO  Running List(C:\Users\p1406\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\p1406\OneDrive\Escritorio\Practica2\2)
+2026.10.20 22:58:46 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\2\Parte2.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:58:46 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\2\Parte2.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:58:46 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\2\Parte2.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:58:47 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\2\Parte2.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:58:47 INFO  Attempting to connect to the build server...
+2026.10.20 22:58:47 INFO  Running BSP server List(C:\Users\p1406\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\p1406\OneDrive\Escritorio\Practica2\2\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\p1406\OneDrive\Escritorio\Practica2\2\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\p1406\OneDrive\Escritorio\Practica2\2\.scala-build\ide-envs.json, C:\Users\p1406\OneDrive\Escritorio\Practica2\2)
+2026.10.20 22:58:46 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\p1406\OneDrive\Escritorio\Practica2\2\.metals\bsp.trace.json or C:\Users\p1406\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.10.20 22:58:47 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\2\Parte2.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:58:47 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\2\Parte2.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:58:47 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\2\Parte2.scala. Using presentation compiler with project's scala-library version: 3.3.8
+oct 20, 2026 10:58:48 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+2026.10.20 22:58:48 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\2\Parte2.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:58:48 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\2\Parte2.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:58:48 INFO  time: Connected to build server in 1.42s
+2026.10.20 22:58:48 INFO  Connected to Build server: scala-cli v1.17.1
+2026.10.20 22:58:49 INFO  time: Imported build in 0.16s
+2026.10.20 22:58:49 INFO  compiling 2_41e103cfb2 (1 scala source)
+2026.10.20 22:58:49 INFO  time: compiled 2_41e103cfb2 in 0.87s
+oct 20, 2026 10:58:50 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28
+2026.10.20 22:58:54 INFO  compiling 2_41e103cfb2 (1 scala source)
+2026.10.20 22:58:54 INFO  time: compiled 2_41e103cfb2 in 0.42s
+2026.10.20 22:58:57 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.20 22:58:58 INFO  time: indexed workspace in 9.83s
+oct 20, 2026 10:59:07 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.10.20 22:59:07 INFO  compiling 2_41e103cfb2 (1 scala source)
+2026.10.20 22:59:07 INFO  time: compiled 2_41e103cfb2 in 0.42s
+oct 20, 2026 10:59:08 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+oct 20, 2026 10:59:08 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.10.20 22:59:23 INFO  Shutting down server
+2026.10.20 22:59:23 INFO  Memory monitor stopped
+2026.10.20 22:59:23 INFO  shutting down Metals
+2026.10.20 22:59:23 INFO  Shut down connection with build server.
+2026.10.20 22:59:23 INFO  Exiting server

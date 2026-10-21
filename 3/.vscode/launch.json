@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "Parte3",
+      "mainClass": "Parte3",
+      "buildTarget": "file:/C:/Users/p1406/OneDrive/Escritorio/Practica2/3/.scala-build/?id=3_41e103cfb2",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    }
+  ]
+}

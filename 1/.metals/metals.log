@@ -1,0 +1,88 @@
+2026.10.20 22:56:37 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\p1406\OneDrive\Escritorio\Practica2\1' for client Visual Studio Code 1.142.0.
+2026.10.20 22:56:37 INFO  Memory monitor started
+2026.10.20 22:56:37 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.20 22:56:38 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:56:39 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:56:40 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:56:39 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:56:39 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:56:39 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+oct 20, 2026 10:56:40 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2026.10.20 22:56:39 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+oct 20, 2026 10:56:40 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2026.10.20 22:56:39 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+oct 20, 2026 10:56:40 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2026.10.20 22:56:39 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:56:39 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:56:39 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:56:41 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:56:41 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:56:41 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:56:41 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+oct 20, 2026 10:56:41 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+2026.10.20 22:56:41 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:56:41 INFO  Running List(C:\Users\p1406\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\p1406\OneDrive\Escritorio\Practica2\1)
+oct 20, 2026 10:56:41 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+oct 20, 2026 10:56:41 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+2026.10.20 22:56:41 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:56:41 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:56:41 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+oct 20, 2026 10:56:41 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+2026.10.20 22:56:41 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+oct 20, 2026 10:56:41 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33
+oct 20, 2026 10:56:41 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34
+2026.10.20 22:56:41 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+oct 20, 2026 10:56:41 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30
+2026.10.20 22:56:41 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:56:41 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:56:42 INFO  Attempting to connect to the build server...
+2026.10.20 22:56:42 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:56:42 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:56:42 INFO  Running BSP server List(C:\Users\p1406\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\p1406\OneDrive\Escritorio\Practica2\1\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\p1406\OneDrive\Escritorio\Practica2\1\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\p1406\OneDrive\Escritorio\Practica2\1\.scala-build\ide-envs.json, C:\Users\p1406\OneDrive\Escritorio\Practica2\1)
+2026.10.20 22:56:42 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\p1406\OneDrive\Escritorio\Practica2\1\.metals\bsp.trace.json or C:\Users\p1406\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.10.20 22:56:42 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:56:42 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:56:43 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:56:43 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:56:43 INFO  no build target found for C:\Users\p1406\OneDrive\Escritorio\Practica2\1\Parte1.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 22:56:43 INFO  time: Connected to build server in 1.69s
+2026.10.20 22:56:43 INFO  Connected to Build server: scala-cli v1.17.1
+2026.10.20 22:56:43 INFO  time: Imported build in 0.14s
+2026.10.20 22:56:44 INFO  compiling 1_41e103cfb2 (1 scala source)
+oct 20, 2026 10:56:46 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 59
+oct 20, 2026 10:56:46 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 62
+2026.10.20 22:56:46 INFO  time: compiled 1_41e103cfb2 in 2.11s
+oct 20, 2026 10:56:46 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 65
+oct 20, 2026 10:56:46 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 69
+2026.10.20 22:56:53 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.20 22:56:55 INFO  time: indexed workspace in 11s
+oct 20, 2026 10:58:01 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 664
+2026.10.20 22:58:06 INFO  compiling 1_41e103cfb2 (1 scala source)
+2026.10.20 22:58:06 INFO  time: compiled 1_41e103cfb2 in 0.92s
+oct 20, 2026 10:58:11 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+oct 20, 2026 10:58:12 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+oct 20, 2026 10:58:12 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.10.20 22:58:30 INFO  Shutting down server
+2026.10.20 22:58:30 INFO  Memory monitor stopped
+2026.10.20 22:58:30 INFO  shutting down Metals
+2026.10.20 22:58:31 INFO  Shut down connection with build server.
+2026.10.20 22:58:31 INFO  BSP server: Oct 20, 2026 10:58:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+2026.10.20 22:58:30 INFO  Exiting server
